@@ -33,6 +33,8 @@ If you need a specific version, you can use the `dnf` module command, available 
 sudo yum module list python38
 ```
 
+![image](https://github.com/user-attachments/assets/43ff6052-72f8-4fc3-a0a1-e062fcd170e3)
+
 Then, to install Python 3.8 for example:
 
 ```bash
@@ -45,6 +47,8 @@ Check if Python is installed correctly by running:
 ```bash
 python3 --version
 ```
+![image](https://github.com/user-attachments/assets/44a2254e-9456-4157-a4f5-dc4b3180ad99)
+
 
 ### 5. **Set Python 3 as default (optional)**
 If you want Python 3 to be the default version when you type `python`, you can create an alias:
