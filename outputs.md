@@ -8,3 +8,6 @@ Promotion Result (Real): {'result': 'Promotion process initiated successfully', 
 
 Initial State
 ![image](https://github.com/user-attachments/assets/ae415e50-df46-476d-a9a7-cbbbf5ab5c7f)
+
+
+Output State
