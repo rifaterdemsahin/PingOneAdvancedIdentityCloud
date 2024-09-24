@@ -6,6 +6,7 @@ First, it's always good practice to update your system before installing new pac
 ```bash
 sudo yum update
 ```
+![image](https://github.com/user-attachments/assets/45e631b7-a3fd-4a85-a5ab-b4821d6639ae)
 
 ### 2. **Enable the EPEL repository (if needed)**
 RHEL may not have some packages in its default repositories, so it's a good idea to enable the Extra Packages for Enterprise Linux (EPEL) repository. To do this, run:
@@ -16,6 +17,7 @@ sudo yum install epel-release
 
 ### 3. **Install Python**
 Depending on which version of Python you want to install, follow the appropriate steps below.
+![image](https://github.com/user-attachments/assets/c3887e34-c67e-4d3a-9929-8d7d56c0b3e2)
 
 #### For Python 3.8 or newer:
 Red Hat provides Python through its AppStream repository. You can install Python 3.8 or newer with:
