@@ -9,5 +9,8 @@ Promotion Result (Real): {'result': 'Promotion process initiated successfully', 
 Initial State
 ![image](https://github.com/user-attachments/assets/ae415e50-df46-476d-a9a7-cbbbf5ab5c7f)
 
+Environment 
+![image](https://github.com/user-attachments/assets/26dc7fc9-fdfd-44d1-b5f5-1965cbdbcf42)
+
 
 Output State
