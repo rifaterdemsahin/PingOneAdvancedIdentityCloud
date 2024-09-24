@@ -1,2 +1,5 @@
 End State
-![image](https://github.com/user-attachments/assets/60807ec0-9719-4300-b415-313a56ba3e99)
+
+Lock Status: {'description': 'Environment unlocked', 'lowerEnv': {'state': 'unlocked'}, 'upperEnv': {'state': 'unlocked'}}
+Promotion Result (Dry Run): {'result': 'Promotion process initiated successfully', 'status': 'RUNNING'}
+Promotion Result (Real): {'result': 'Promotion process initiated successfully', 'status': 'RUNNING'}
